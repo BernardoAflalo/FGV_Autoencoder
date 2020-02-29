@@ -4,4 +4,3 @@ pandas
 sklearn
 tensorflow
 keras
-PIL
